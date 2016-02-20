@@ -26,7 +26,7 @@ cantidadPalabras:0,
         return palabrasCant;
     }
 };
-window.APP = WordCoutnerAPP;
+window.APP = WordCounterAPP;
 
 
 
